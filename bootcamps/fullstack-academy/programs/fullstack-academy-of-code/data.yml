@@ -1,9 +1,12 @@
 admissions: Application, coding challenge, interviews
 cities:
 - new-york
+- chicago
 - remote
-commitment: full-time
-cost_description: $16,810
+commitment:
+- full-time
+- part-time
+cost_description: $17,610
 display_name: Fullstack Academy of Code
 duration: 13
 duration_units: weeks
@@ -15,6 +18,7 @@ promises_job: false
 scholarships: For women
 topics:
 - javascript
+- react-js
 - angular-js
 - algorithms
 - html
@@ -22,7 +26,7 @@ topics:
 - node-js
 - sql
 - git
-tuition: 16810
+tuition: 17610
 tuition_units: USD $
 reports_graduation_and_placement_rates: "No"
 outcomes_verified: "No"
